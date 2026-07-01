@@ -45,13 +45,13 @@ int main()
     // cout << "(a > 5 && b < 5): " << (a > 5 && b < 5) << endl;
     // cout << "(a > 5 || b < 5): " << (a > 5 || b < 5) << endl;
 
-    int a;
-    int b;
-    cout<<"Enter the First Num: "<<endl;
-    cin>>a;
-    cout<<"Enter the Second Num: "<<endl;
-    cin>>b;
+    // int a;
+    // int b;
+    // cout<<"Enter the First Num: "<<endl;
+    // cin>>a;
+    // cout<<"Enter the Second Num: "<<endl;
+    // cin>>b;
+    // cout<<"The sum is: "<<(a+b)<<endl;
 
-    cout<<"The sum is: "<<(a+b)<<endl;
     return 0;
 }
