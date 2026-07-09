@@ -26,15 +26,15 @@ int main()
     // strcat(firstName,lastName);
     // cout<<firstName<<endl;
 
-    string str1="Krish";
-    string str2="Gupta";
+    // string str1="Krish";
+    // string str2="Gupta";
 
     // cout<<str1.length()<<endl;
     // cout<<str1.append(str2)<<endl;
     // cout<<str1.at(1)<<endl;
     // cout<<str1.empty()<<endl;
     // cout<<str1.replace(3,2,"you")<<endl;
-    cout<<str1.erase(3,2)<<endl;
+    // cout<<str1.erase(3,2)<<endl;
 
     return 0;
 }
